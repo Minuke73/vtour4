@@ -22,7 +22,7 @@
 		if(startactions !== null, startactions() );
 	</action>
 	
-	<scene name="scene_19-1" title="단양 도담삼봉" onstart="" thumburl="panos/19-1.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_19-1" title="단양 도담 삼봉" onstart="" thumburl="panos/19-1.tiles/thumb.jpg" lat="" lng="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -35,7 +35,7 @@
 		</image>
 
 		<hotspot type="image" name="spot3" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="-79.105" atv="25.892" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
-		<hotspot name="text" style="custom_hotspotext"  html="단양 도담삼봉 " ath="-79.105" atv="21.892" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
+		<hotspot name="text" style="custom_hotspotext"  html="단양 도담 삼봉 " ath="-79.105" atv="21.892" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
 
 
 
